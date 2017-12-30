@@ -2,13 +2,13 @@ function shout(string){
   return string.toUpperCase()
 }
 function whisper(string){
-  return string.tolowercase()
+  return string.lowercase()
 }
 function logshout(string){
-  console.log("all caps")
+  console.log()
 }
 function logwhisper(string){
-  console.log("all lowercase")
+  console.log()
 }
 function sayHiToGrandma(string){
   return ("I cant hear you!") 
